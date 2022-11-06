@@ -1,7 +1,7 @@
 
-# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hello and thank you for visiting!<br>
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hello & Welcome to my page!<br>
 
-### Welcome to my page. I'm Angel, a Full Stack Developer from LA, US.
+###  I'm Angel, a Full Stack Developer from LA, US.
 
 - 🔭 I’m currently working on WordPress, Shopify and WebFlow Development
 - 🌱 I’m currently learning Python for Blockchain Development
