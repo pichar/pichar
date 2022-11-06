@@ -47,6 +47,6 @@ Here are some common tasks I’m asked to help with, but really anything you mig
 
 
 ## Let Build Something Great -- [Contact me today!](https://calendly.com/contact-pichardo/free-consultation)
-## Visit [Pichardo.io](https:pichardo.io) For More Information
+## Visit [Pichardo.io](https://pichardo.io) For More Information
 
 
